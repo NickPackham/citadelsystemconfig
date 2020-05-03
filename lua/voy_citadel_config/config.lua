@@ -2,7 +2,7 @@ ANG_GM_Citadel = {}
 
 -- The Citadel command is !citadel # (Loadout Number seen below.)
 
-ANG_GM_Citadel_Config_Version = 3
+ANG_GM_Citadel_Config_Version = 6
 
 ANG_GM_Citadel_Admins = {
 	["superadmin"] = true,
