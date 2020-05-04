@@ -1,4 +1,4 @@
-hook.Add("Initialize", "VOY_LoadCitadelSystem", function()
+hook.Add("DarkRPFinishedLoading", "VOY_LoadCitadelSystem", function()
     include("voy_citadel_config/config.lua")
     AddCSLuaFile("voy_citadel_config/config.lua")
 end)
