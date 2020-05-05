@@ -1,6 +1,6 @@
 ANG_GM_Citadel = {}
 
--- The Citadel command is !citadel # (Loadout Number seen below.)
+-- The Citadel command is !citadel # (Loadout Number seen below with the NPC's.)
 
 ANG_GM_Citadel_Config_Version = 6
 
