@@ -2,7 +2,7 @@ ANG_GM_Citadel = {}
 
 -- The Citadel command is !citadel # (Loadout Number seen below with the NPC's.)
 
-ANG_GM_Citadel_Config_Version = 9
+ANG_GM_Citadel_Config_Version = 12
 
 ANG_GM_Citadel_Admins = {
 	["superadmin"] = true,
