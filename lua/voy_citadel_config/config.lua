@@ -2,7 +2,9 @@ ANG_GM_Citadel = {}
 
 -- The Citadel command is !citadel # (Loadout Number seen below with the NPC's.)
 
-ANG_GM_Citadel_Config_Version = 12
+ANG_GM_Citadel_Config_Version = 13
+
+ANG_GM_Citadel_NoAdmin = false -- Should anyone be able to use the Citadel System?
 
 ANG_GM_Citadel_Admins = {
 	["superadmin"] = true,
